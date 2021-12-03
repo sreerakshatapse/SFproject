@@ -4,4 +4,4 @@ edditing file in bug1 branch
 3 way merging in the master branch
 
 3 way merging by bug2 branch
-
+3 way merging line addded but bottom by master

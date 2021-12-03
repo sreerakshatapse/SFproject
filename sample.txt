@@ -1,3 +1,4 @@
+3 way non conflit top by bug3
 sample file 
 edditing file in bug1 branch 
 

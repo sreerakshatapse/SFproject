@@ -11,4 +11,6 @@ rebase merging in cinflict by master branch
 
 
 rebase conflict merging by the bug 4
+stagging
+work in progess......
 
